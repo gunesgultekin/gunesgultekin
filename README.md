@@ -40,18 +40,3 @@ I’m actively continuing to develop myself in the industry, staying up to date 
     https://www.linkedin.com/in/gunesgultekin07/
   </a>
 </p>
-
-
-
-
-
-<style>
-  .tech-icon {
-    transition: transform 0.3s ease;
-    margin: 5px;
-    cursor: pointer;
-  }
-  .tech-icon:hover {
-    transform: scale(1.3) rotate(10deg);
-  }
-</style>

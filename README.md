@@ -29,14 +29,3 @@ I’m actively continuing to develop myself in the industry, staying up to date 
 </p>
 
 ---
-
-### **📫 Contact**  
-
-<p align="left" style="display: flex; align-items: center; gap: 8px;">
-  <a href="https://www.linkedin.com/in/gunesgultekin07/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gunesgultekin07/" target="_blank">
-    https://www.linkedin.com/in/gunesgultekin07/
-  </a>
-</p>

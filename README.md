@@ -1,15 +1,11 @@
-# 👋 Hi, I'm Güneş  
+# 👋Welcome  
 
 ## 💡 About Me  
-I’m a Fullstack developer with a strong background in industrial automation, real-time data collection, production tracking and AI-driven image processing solutions.  
-I have over 2+ years of hands-on experience in the **.NET ecosystem**, with in-depth knowledge of **SignalR**, **RabbitMQ**, **Apache Kafka**, **MQTT**, **Redis**, **Docker**, and **Kubernetes** and extensive expertise with **PostgreSQL** and **Microsoft SQL Server**.  
-I’m currently delivering efficient software solutions that consistently meet client requirements.  
-I’m proficient in managing asynchronous services and developing secure, optimized software for edge cases, ensuring data integrity across microservices using quorum-based and replicated solutions (**RabbitMQ Quorum**, **Apache Kafka Replication**).  
-I’m also proficient in analyzing customer needs and designing effective software architectures.  
-I’m actively continuing to develop myself in the industry, staying up to date with modern technologies and best practices.  
+Backend Developer with 2 years of professional experience designing, building, and deploying production-grade .NET backend solutions for enterprise environments. Successfully delivered 10+ production software solutions supporting real-time data processing, monitoring, and operational decision-making.
+
+Specialized in high-throughput RESTful APIs, event-driven microservices, and real-time communication systems using .NET, SignalR, RabbitMQ, and PostgreSQL/TimescaleDB.
+Driven by building backend systems that solve real business problems efficiently and perform consistently. I thrive in collaborative environments where disciplined engineering practices and collective problem-solving drive robust production outcomes. Motivated by genuine passion for software development, continuous growth, and applying innovative solutions to complex problems.
 ---
-
-
 ### 🔧 Technologies & Tools  
 
 <p align="left">
@@ -29,3 +25,4 @@ I’m actively continuing to develop myself in the industry, staying up to date 
 </p>
 
 ---
+

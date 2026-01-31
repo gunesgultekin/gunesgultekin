@@ -6,7 +6,7 @@ Backend Developer with **2 years** of professional experience designing, buildin
 
 Specialized in high-throughput **RESTful APIs**, event-driven **microservices**, and real-time communication systems using **.NET**, **SignalR**, **RabbitMQ**, and **PostgreSQL/TimescaleDB**.
 
-Driven by building backend systems that solve real business problems efficiently and perform consistently. I perform best in collaborative environments where disciplined engineering practices and collective problem-solving drive robust production outcomes. Motivated by genuine passion for software development, continuous growth, and applying innovative solutions to complex problems.
+Driven by building backend systems that solve real business problems efficiently and perform consistently. I thrive in collaborative environments where disciplined engineering practices and collective problem-solving drive robust production outcomes. Motivated by genuine passion for software development, continuous growth, and applying innovative solutions to complex problems.
 
 ---
 
@@ -29,3 +29,4 @@ Driven by building backend systems that solve real business problems efficiently
 </p>
 
 ---
+
